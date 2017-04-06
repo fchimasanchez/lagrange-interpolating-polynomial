@@ -1,3 +1,7 @@
+/* Author: Francisco Chima Sanchez
+   Created: 2016-04-05
+   Last Modified: 2017-04-05 */
+
 /* This short program determines, for a finite set of numbers in the interval [0,1],
 the Lagrange interpolating polynomial P(x) for a given set of nodes (x, f(x)) defined over
 this interval. A formatted table of these polynomial values is printed. */
